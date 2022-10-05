@@ -2,3 +2,4 @@
 /.tmp.driveupload
 node_modules/
 int-dist/
+*.txt
