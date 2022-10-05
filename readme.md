@@ -1,10 +1,10 @@
 # 3D Paper Shredder
-This project demonstrates how
+This project combines the power of 3D CSS, background-clip, and a touch of JS to create a functional 3D paper shredder. Type to edit the text on the paper then press the green button to shred your text.
 
 ![3D Paper Shredder Demo](demo-gif.gif "3D Paper Shredder Demo")
 
 ## Live Demo
-A live demo is available on [CodePen](https://codepen.io/GeorgePark/full/QWrxPyJ) and [Netlify](https://3d-css-paper-shredder.netlify.app/).
+A live demo is available on [CodePen](https://codepen.io/GeorgePark/full/QWrxPyJ) and [Netlify](https://3d-paper-shredder.netlify.app/).
 
 ## License
 This project is licensed under the MIT License - see the [license.md](license.md) file for details.
